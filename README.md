@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Starion Group is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.stariongroup.eu/
+Starion Group provides system engineering services for space, defence, and critical infrastructures. Based in Europe, they offer expertise in satellite lifecycle, space systems engineering, security, ground segment operations, data engineering, MBSE, AI, and quantum technologies, serving both public and private sector clients.
+
+**Areas:** Company · Space · Defence · Engineering · Critical-Infrastructure
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.stariongroup.eu/)
+- [Support](https://support.stariongroup.eu/support/home)
+- [Blog](https://www.stariongroup.eu/category/media-updates/blog/)
+- [Security](https://www.stariongroup.eu/category/security/)
+- [Terms of service](https://www.stariongroup.eu/legal-notice/)
+- [Privacy policy](https://www.stariongroup.eu/privacy-notice/)
+- [GitHub](https://github.com/STARIONGROUP)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/starion-group/](https://apis.io/providers/starion-group/).
